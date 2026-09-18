@@ -4,7 +4,7 @@ echo "======================================"
 echo "       MY DEVOPS APPLICATION"
 echo "======================================"
 
-echo "Application started successfully!"
+echo "Application started successfully through Jenkins CI/CD!"
 echo "This application is running using Bash."
 
 echo ""
